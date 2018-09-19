@@ -7,7 +7,7 @@
 # the units tests in the mian() function.
 # 
 # Note: If you execute this library as a main program 
-#       it will execute and report in it's unit tests.
+#       it will execute and report it's unit tests.
 #
 # -- H. Wilson, January 2017  
 
