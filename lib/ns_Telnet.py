@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 """
 This is the library for using Telnet sessions in your Python applications.
-It is specificaly tailored for using telnet to access an Access Point.
+It is specificaly tailored for using telnet to access an Wireless Access Point.
  
 """
 
